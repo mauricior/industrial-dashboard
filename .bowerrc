@@ -1,0 +1,5 @@
+{
+  "directory":"assets/components",
+  "proxy":"http://mauricio:TrocarS3nha@177.16.15.2:1082/",
+  "https-proxy":"http://mauricio:TrocarS3nha@177.16.15.2:1082/"
+}
